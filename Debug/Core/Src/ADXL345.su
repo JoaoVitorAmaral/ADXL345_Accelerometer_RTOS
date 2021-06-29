@@ -1,0 +1,3 @@
+ADXL345.c:42:6:ADXL345_Configuration	16	static
+ADXL345.c:50:6:ADXL345_DevIDRead	32	static
+ADXL345.c:60:6:ADXL345_DataRead	64	static
